@@ -1,0 +1,41 @@
+*{
+    font-family: monospace;
+}
+.button{
+    text-align: center;
+    height: 25px;
+    width: 30px;
+    margin: 5px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+    border: solid grey 1px;
+}
+
+#display{
+    text-align: right;
+    background-color: grey;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 175px;
+    height: 50px;
+}
+
+#displaytext{
+    position: relative;
+    top: 11px;
+    right: 150px;
+}
+
+#calculator{
+    background-color: darkgrey;
+    width: 200px;
+    height: 250px;
+    left: 10px;
+}
+
+
+
+/* Liam Boer    2014-2015    Media Development */
